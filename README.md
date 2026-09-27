@@ -1,5 +1,3 @@
-Sure. Here’s a version tailored for **ArmaVault** and kept similar to the KG-Verse format:
-
 # ArmaVault - Firearm Models Directory App
 
 A mobile application built with Flutter that serves as a **Firearm Models Directory** with full CRUD operations and third-party API integration.
